@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@liveblocks/client": "^1.11.0",
+    "@liveblocks/client": "^3.4.2",
     "@liveblocks/zustand": "^1.11.0",
     "@types/node": "18.13.0",
     "@types/react": "18.0.28",
